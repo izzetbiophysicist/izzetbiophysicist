@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucas Machado
 - 🧬 I’m looking to collaborate on sctructual biology and machine learning projects
-- 🧪 I`m currently interested in protein design
+- 🧪 I'm currently interested in protein design and drug development
 - 📫 How to reach me at biolucasmachado@gmail.com
 
 <!---
