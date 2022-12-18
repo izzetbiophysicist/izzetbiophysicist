@@ -13,8 +13,7 @@ You can click the Preview link to take a look at your changes.
 </br> 
 
 <div align="left">
-  <a href="https://github.com/izzetbiophysicist">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=izzetbiophysicist&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/> <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzetbiophysicist&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzetbiophysicist&layout=compact&langs_count=7&theme=transparent"/>
 </div> 
 
 <div style="display: inline_block"><br>
